@@ -1,0 +1,7 @@
+{
+  "name": "Facial Attendance System",
+  "description": "An advanced college attendance software using Gemini AI for secure facial recognition and automated record keeping.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
